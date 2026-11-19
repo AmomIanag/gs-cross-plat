@@ -16,13 +16,13 @@ O público-alvo inclui gestores públicos, equipes técnicas, conselhos locais e
 
 | Nome | RM |
 |---|---|
-| _Preencher nome do integrante 1_ | _Preencher RM_ |
-| _Preencher nome do integrante 2_ | _Preencher RM_ |
-| _Preencher nome do integrante 3_ | _Preencher RM_ |
+| Amom Ianaguivara Brito | 565718 |
+| Fernando Antônio | 562549 |
+| Victor Chen | 565363 |
 
 ## 4. Demonstração visual
 
-As imagens abaixo foram capturadas do aplicativo realmente instalado nos AVDs Pixel 5 e Pixel 2, Android 17 (API 37), em 19/11/2026. Não são mockups.
+Imagens capturadas do aplicativo
 
 | Consentimento | Visão geral | Indicadores e benefício social |
 |---|---|---|
@@ -52,7 +52,6 @@ As imagens abaixo foram capturadas do aplicativo realmente instalado nos AVDs Pi
 - [x] Loading, erro, nova tentativa, sucesso e funcionamento offline por cache.
 - [x] Semântica, texto além de cores e layouts flexíveis para acessibilidade.
 - [x] Testes automatizados das regras, validação, persistência e consentimento.
-- [ ] Vídeo demonstrativo — será produzido após a validação final.
 
 ## 6. Dados, alertas, métricas, limitações e vieses
 
@@ -166,8 +165,6 @@ APK de debug: `build/app/outputs/flutter-apk/app-debug.apk` (artefato local igno
 ## 10. Vídeo demonstrativo
 
 **Link:** _pendente — inserir aqui após a gravação e publicação do vídeo._
-
-Roteiro sugerido: consentimento → visão geral → três dashboards → filtro e detalhe de alerta → mudança de limiar → recálculo → modo offline/cache.
 
 ## 11. Licença e identificação acadêmica
 
