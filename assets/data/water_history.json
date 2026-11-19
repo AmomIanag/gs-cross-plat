@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Consumo residencial médio de água",
+    "territory": "São Paulo/SP",
+    "unit": "L/hab/dia",
+    "source": "Série sintética para demonstração acadêmica; não representa medição oficial"
+  },
+  "series": [
+    {"date": "2025-12-01", "value": 164.0},
+    {"date": "2026-01-01", "value": 169.0},
+    {"date": "2026-02-01", "value": 171.0},
+    {"date": "2026-03-01", "value": 168.0},
+    {"date": "2026-04-01", "value": 173.0},
+    {"date": "2026-05-01", "value": 176.0},
+    {"date": "2026-06-01", "value": 174.0},
+    {"date": "2026-07-01", "value": 179.0},
+    {"date": "2026-08-01", "value": 182.0},
+    {"date": "2026-09-01", "value": 184.0},
+    {"date": "2026-10-01", "value": 188.0},
+    {"date": "2026-11-01", "value": 192.0}
+  ]
+}
