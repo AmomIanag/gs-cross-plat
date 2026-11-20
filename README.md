@@ -164,7 +164,7 @@ APK de debug: `build/app/outputs/flutter-apk/app-debug.apk` (artefato local igno
 
 ## 10. Vídeo demonstrativo
 
-**Link:** _pendente — inserir aqui após a gravação e publicação do vídeo._
+**Link:** https://youtu.be/qPUhlYgkXcg
 
 ## 11. Licença e identificação acadêmica
 
